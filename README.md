@@ -1,1 +1,1 @@
-# LEAG
+# LEAG Boilerplate\n\nBase PWA + Firebase para criação de micro-SaaS.
